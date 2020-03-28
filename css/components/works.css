@@ -1,0 +1,29 @@
+.cards {
+ width: 900px;
+ margin: 0 auto;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-bottom: 30px;
+}
+
+.card {
+ padding: 20px;
+ box-shadow: 0 0 5px rgb(220,220,220);
+ border-radius: 3px;*/*/*/*/
+ width: 200px;
+ border: 1px solid rgb(220,220,220);
+ text-align: center;
+}
+
+.card-img {
+  width: 120px;
+}
+
+.card h2 {
+  font-size: 16px;
+}
+
+.card p {
+  opacity: 0.6;
+}
